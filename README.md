@@ -7,7 +7,7 @@
 I prefer React & React Native for web/mobile front-end, Node.js & Django technologies for back-end development.
 <br/>
 
-- I’m currently working on front-end development
+- I’m currently working on Fullstack development
 
 - I’m currently learning React.js  
 
@@ -24,8 +24,14 @@ I prefer React & React Native for web/mobile front-end, Node.js & Django technol
 :-------------------------|-------------------------|-------------------------
 [Firebase Contact App](https://selman-firebase-contact.netlify.app/)| React, firebase database, firebase (  collection, getDocs, addDoc,  deleteDoc, doc, updateDoc), Bootstrap, React-icons |![](https://user-images.githubusercontent.com/97898216/180663947-279feb7c-aa9e-4384-8267-98c725978b41.gif)
 |[Task Tracker React Project](https://selman-task-tracker-react.netlify.app/) | React, useState, useEffect, localestorrage | ![task](https://user-images.githubusercontent.com/97898216/179367283-e6d86282-db2c-45f0-90e1-1ae0e32afd9a.gif)
+|[Tour Project(This is my first react Project :) ](https://selman-s.github.io/First-React-Project-Tour/) | React, React DOM, Components, Props |![tour-min](https://user-images.githubusercontent.com/97898216/178441143-30916873-4813-46dd-b138-54166e3d26fc.gif)
+|[Weather App Master](https://selman-weather-app.netlify.app/)| DOM, Async Await, Axios, Events| ![weath](https://user-images.githubusercontent.com/97898216/178437698-b4671cf3-1fee-4409-a5b3-6832d454fb11.gif)
+|[Github User Search with API](https://selman-github-search-app.netlify.app/)  | JS DOM, Github API, Async Await, Axios, Events | ![search github](https://user-images.githubusercontent.com/97898216/174426890-0a3a401d-5b5c-42ce-b1b7-f60be4f20068.gif)
+|[Ecommerce-product-page-Checkout](https://selman-s.github.io/Ecommerce-product-page-Checkout/)| DOM, Iterator, Callback functions, String-array functions, Events|![checkout](https://user-images.githubusercontent.com/97898216/172066910-e5e5df6e-fa10-4c2c-be2d-94e86549a712.gif)
 |[Bootcamp Courses Project with Bootstrap](https://selman-s.github.io/Bootcamp-Courses-Project-with-Bootstrap/) |  HTML, CSS Frameworks, Bootstrap-5 |![bootstrap-min](https://user-images.githubusercontent.com/97898216/171989911-e5693d8a-a491-41b5-b159-d82368f0e940.gif)
 |[Guess Number Game]( https://selman-s.github.io/Guess-Number-Game/)| HTML, CSS Frameworks, JS Dom Manipulation, Event Listeners | ![guess](https://user-images.githubusercontent.com/97898216/172633750-4eebfcad-b6a7-441d-99bc-44ffca23d265.gif)
+|[calculator App](https://selman-s.github.io/Calculator-study/)| HTML, CSS Frameworks, JS Dom Manipulation, Event Listeners | ![calculator](https://user-images.githubusercontent.com/97898216/166164152-ba063744-b8ce-4ce2-baf3-01b150ec6baf.png)
+|[Search Flags with API](https://selman-search-flag-app.netlify.app/)|  DOM, Async, Await and Fetch.Bootstrap | ![flags](https://user-images.githubusercontent.com/97898216/173928961-f1b8a43b-246f-4117-82de-885a0d51fbe2.gif)
 
 
 
