@@ -16,6 +16,21 @@ I prefer React & React Native for web/mobile front-end, Node.js & Django technol
 - 💬 Ask  me about anything that you want to learn
 
 -  You can reach me, my email address: gunduzgece546@gmail.com
+
+
+
+## My projects
+  Project Name       |Libraries and Technologies I use     |How does my project look   
+:-------------------------|-------------------------|-------------------------
+[Firebase Contact App](https://selman-firebase-contact.netlify.app/)| React, firebase database, firebase (  collection, getDocs, addDoc,  deleteDoc, doc, updateDoc), Bootstrap, React-icons |![](https://user-images.githubusercontent.com/97898216/180663947-279feb7c-aa9e-4384-8267-98c725978b41.gif)
+|[Task Tracker React Project](https://selman-task-tracker-react.netlify.app/) | React, useState, useEffect, localestorrage | ![task](https://user-images.githubusercontent.com/97898216/179367283-e6d86282-db2c-45f0-90e1-1ae0e32afd9a.gif)
+|[Bootcamp Courses Project with Bootstrap](https://selman-s.github.io/Bootcamp-Courses-Project-with-Bootstrap/) |  HTML, CSS Frameworks, Bootstrap-5 |![bootstrap-min](https://user-images.githubusercontent.com/97898216/171989911-e5693d8a-a491-41b5-b159-d82368f0e940.gif)
+|[Guess Number Game]( https://selman-s.github.io/Guess-Number-Game/)| HTML, CSS Frameworks, JS Dom Manipulation, Event Listeners | ![guess](https://user-images.githubusercontent.com/97898216/172633750-4eebfcad-b6a7-441d-99bc-44ffca23d265.gif)
+
+
+
+
+
 ## 🚀 Skills
 <p>
  <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>  
