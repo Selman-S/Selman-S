@@ -1,6 +1,7 @@
 ## Hi there 👋  Selman  is here. 
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selman-sahbudak-8a0a4a22b/) <p align="left"> <img src="https://komarev.com/ghpvc/?username=selman-sahbudak-8a0a4a22b" alt="visitor counter" width="15%"/> </p>
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selman-sahbudak-8a0a4a22b/) 
+
 
 ### What I'm using ? 🛠
 
