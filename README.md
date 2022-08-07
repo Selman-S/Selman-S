@@ -18,6 +18,10 @@ I prefer React & React Native for web/mobile front-end, Node.js & Django technol
 
 -  You can reach me, my email address: gunduzgece546@gmail.com
 
+### Visitors Count
+<img align="left" src = "https://profile-counter.glitch.me/selman-s/count.svg" alt ="Loading">
+<br>
+<hr>
 
 
 ## My projects
