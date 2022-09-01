@@ -12,7 +12,9 @@ I prefer React & React Native for web/mobile front-end, Node.js & Django technol
 
 - I’m currently learning React.js  
 
-- HTML5, CSS3, JavaScript, React, React Native, Python, SQL, GitHub
+- HTML5, CSS3, JavaScript, React, Redux, Python, SQL, GitHub, Material.UI, PostgreSQL, RESTful APIs, Django.
+
+
 
 - 💬 Ask  me about anything that you want to learn
 
