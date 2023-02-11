@@ -29,6 +29,7 @@ I prefer React & React Native for web/mobile front-end, Node.js & Django technol
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
+[Vole Football Player Cards Project](https://vole.netlify.app/)| React, NextJs, Tailwind, React-card-carousel |![vole](https://user-images.githubusercontent.com/97898216/198263902-60495ad4-02bb-492b-b384-9669bedbb716.gif)
 [UPayments Redux Typescript](https://selman-reactjs.vercel.app/)| Redux Toolkit, TypeScript, Tailwind, Redux-Thunk |![upayment](https://user-images.githubusercontent.com/97898216/198263902-60495ad4-02bb-492b-b384-9669bedbb716.gif)
 [CrewIn Blog App](https://crewin-blog.vercel.app/)| React, React Router Dom, SCSS, react icons |![crewin](https://user-images.githubusercontent.com/97898216/186534031-e91366da-a35b-43f3-a2f1-e555242e8e7a.gif)
 [Firebase Contact App](https://selman-firebase-contact.netlify.app/)| React, firebase database, firebase (  collection, getDocs, addDoc,  deleteDoc, doc, updateDoc), Bootstrap, React-icons |![](https://user-images.githubusercontent.com/97898216/180663947-279feb7c-aa9e-4384-8267-98c725978b41.gif)
