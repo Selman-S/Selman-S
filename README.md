@@ -27,13 +27,13 @@ I prefer React & React Native for web/mobile front-end, Node.js & Django technol
 
 
 ## My projects
-  Project Name       |Libraries and Technologies I use     |How does my project look   
+  Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------|-------------------------
-[Vole Football Player Cards Project](https://vole.netlify.app/)| React, NextJs, Tailwind, React-card-carousel |![vole](https://user-images.githubusercontent.com/97898216/218248573-84871520-bc8c-4541-8711-47dafc5b7c62.gif)
-[UPayments Redux Typescript](https://selman-reactjs.vercel.app/)| Redux Toolkit, TypeScript, Tailwind, Redux-Thunk |![upayment](https://user-images.githubusercontent.com/97898216/198263902-60495ad4-02bb-492b-b384-9669bedbb716.gif)
-[CrewIn Blog App](https://crewin-blog.vercel.app/)| React, React Router Dom, SCSS, react icons |![crewin](https://user-images.githubusercontent.com/97898216/186534031-e91366da-a35b-43f3-a2f1-e555242e8e7a.gif)
-[Firebase Contact App](https://selman-firebase-contact.netlify.app/)| React, firebase database, firebase (  collection, getDocs, addDoc,  deleteDoc, doc, updateDoc), Bootstrap, React-icons |![](https://user-images.githubusercontent.com/97898216/180663947-279feb7c-aa9e-4384-8267-98c725978b41.gif)
-|[Weather App Master](https://selman-weather-app.netlify.app/)| DOM, Async Await, Axios, Events| ![weath](https://user-images.githubusercontent.com/97898216/178437698-b4671cf3-1fee-4409-a5b3-6832d454fb11.gif)
+[Live Link](https://vole.netlify.app/)| React, NextJs, Tailwind, React-card-carousel | [Vole Football Player Cards Project](https://github.com/Selman-S/Vole)
+[Live Link](https://selman-reactjs.vercel.app/)| Redux Toolkit, TypeScript, Tailwind, Redux-Thunk |[UPayments Redux Typescript](https://github.com/Selman-S/Upayments-redux)
+[Live Link](https://crewin-blog.vercel.app/)| React, React Router Dom, SCSS, react icons |[CrewIn Blog App](https://github.com/Selman-S/Crewin-Blog)
+[Live Link](https://selman-firebase-contact.netlify.app/)| React, firebase database, firebase (  collection, getDocs, addDoc,  deleteDoc, doc, updateDoc), Bootstrap, React-icons |[Firebase Contact App](https://github.com/Selman-S/Firebase-Contact-App)
+|[Live Link](https://selman-weather-app.netlify.app/)| DOM, Async Await, Axios, Events| [Weather App Master](https://github.com/Selman-S/weather-app-master)
 |[Bootcamp Courses Project with Bootstrap](https://selman-s.github.io/Bootcamp-Courses-Project-with-Bootstrap/) |  HTML, CSS Frameworks, Bootstrap-5 |![bootstrap-min](https://user-images.githubusercontent.com/97898216/171989911-e5693d8a-a491-41b5-b159-d82368f0e940.gif)
 |[Task Tracker React Project](https://selman-task-tracker-react.netlify.app/) | React, useState, useEffect, localestorrage | ![task](https://user-images.githubusercontent.com/97898216/179367283-e6d86282-db2c-45f0-90e1-1ae0e32afd9a.gif)
 |[Language Cards React](https://selman-react-language-cards.netlify.app/)|React, React DOM, Components, Props|![language](https://user-images.githubusercontent.com/97898216/178433561-1852c5c1-7af2-4990-9f65-1c379bbcce7b.gif)
