@@ -29,6 +29,7 @@ I prefer React & React Native for web/mobile front-end, Node.js & Django technol
 ## My projects
   Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------|-------------------------
+[Live Link](https://dental-app-one.vercel.app/poliklinik)| reduxjs/toolkit, axios, formik, react-zoom-pan-pinch, date-fns, daisyui, react-dropzone, react-icons, sass, swiper, yup | [Dental Clinic Management System](https://github.com/Stock-Management-System/dentalApp)
 [Live Link](https://vole.netlify.app/)| React, NextJs, Tailwind, React-card-carousel | [Vole Football Player Cards Project](https://github.com/Selman-S/Vole)
 [Live Link](https://selman-reactjs.vercel.app/)| Redux Toolkit, TypeScript, Tailwind, Redux-Thunk |[UPayments Redux Typescript](https://github.com/Selman-S/Upayments-redux)
 [Live Link](https://crewin-blog.vercel.app/)| React, React Router Dom, SCSS, react icons |[CrewIn Blog App](https://github.com/Selman-S/Crewin-Blog)
