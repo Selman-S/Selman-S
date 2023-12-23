@@ -18,7 +18,7 @@ I prefer React & React Native for web/mobile front-end, Node.js & Django technol
 
 - 💬 Ask  me about anything that you want to learn
 
--  You can reach me, my email address: gunduzgece546@gmail.com
+-  You can reach me, my email address: selmansahbudak1@gmail.com
 
 ### Visitors Count
 <img align="left" src = "https://profile-counter.glitch.me/selman-s/count.svg" alt ="Loading">
