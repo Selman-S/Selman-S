@@ -1,6 +1,5 @@
 ## Hi there 👋  Selman  is here. 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/selman-s/selman-s/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
-<br>
+
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selman-sahbudak-8a0a4a22b/) 
 
 [https://www.selmansahbudak.com.tr](https://selmansahbudak.com.tr)
@@ -25,7 +24,8 @@ I prefer React & React Native for web/mobile front-end, Node.js & Django technol
 <img align="left" src = "https://profile-counter.glitch.me/selman-s/count.svg" alt ="Loading">
 <br>
 <hr>
-
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/selman-s/selman-s/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<br>
 
 ## My projects
   Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
