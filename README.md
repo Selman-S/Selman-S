@@ -21,8 +21,10 @@ I prefer React & React Native for web/mobile front-end, Node.js & Django technol
 -  You can reach me, my email address: selmansahbudak1@gmail.com
 
 ### Visitors Count
-<img src="https://api.daily.dev/devcards/v2/WgN10YYDkjQoGOg8lMCKc.png?type=wide&r=ah9" width="652" alt="selman's Dev Card"/>
+<img align="left" src = "https://profile-counter.glitch.me/selman-s/count.svg" alt ="Loading">
 <br>
+<img src="https://api.daily.dev/devcards/v2/WgN10YYDkjQoGOg8lMCKc.png?type=wide&r=ah9" width="652" alt="selman's Dev Card"/>
+
 <hr>
 <br>
 
