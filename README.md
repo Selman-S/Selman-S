@@ -7,9 +7,9 @@
 ### What I'm using? 🛠
 
 I specialize in full-stack development using modern tools and frameworks:
-- **Frontend:** React.js, React Native
-- **Backend:** Node.js, Next.js, Django
-- **Database:** PostgreSQL, SQL
+- **Frontend:** React.js, React Native, Next.js
+- **Backend:** Node.js, Django
+- **Database:** PostgreSQL, SQL, MongoDB
 - **Other tools:** Redux, RESTful APIs, Material-UI, GitHub, HTML5, CSS3, JavaScript, Python
 
 ---
