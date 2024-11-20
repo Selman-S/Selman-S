@@ -1,29 +1,31 @@
-## Hi there 👋  Selman  is here. 
+## Hi there 👋 Selman is here. 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selman-sahbudak-8a0a4a22b/) 
 
 [https://www.selmansahbudak.com.tr](https://selmansahbudak.com.tr)
-### What I'm using ? 🛠
 
-I prefer React & React Native for web/mobile front-end, Node.js & Django technologies for back-end development.
-<br/>
+### What I'm using? 🛠
 
-- I’m currently working on Fullstack development
+I specialize in full-stack development using modern tools and frameworks:
+- **Frontend:** React.js, React Native
+- **Backend:** Node.js, Next.js, Django
+- **Database:** PostgreSQL, SQL
+- **Other tools:** Redux, RESTful APIs, Material-UI, GitHub, HTML5, CSS3, JavaScript, Python
 
-- I’m currently learning React.js  
+---
 
-- HTML5, CSS3, JavaScript, React, Redux, Python, SQL, GitHub, Material.UI, PostgreSQL, RESTful APIs, Django.
+- 🌱 **Currently Learning:** Advanced backend development with Node.js and Next.js
+- 💻 **Working On:** Full-stack applications, focusing on scalable and performant architectures.
+- 💬 **Ask Me About:** Full-stack development, backend technologies, or anything you'd like to learn.
+- 📫 **Reach Me At:** selmansahbudak1@gmail.com
 
+---
+Thanks for stopping by! 😊
 
-
-- 💬 Ask  me about anything that you want to learn
-
--  You can reach me, my email address: selmansahbudak1@gmail.com
 
 ### Visitors Count
 <img align="left" src = "https://profile-counter.glitch.me/selman-s/count.svg" alt ="Loading">
-<br>
-<img src="https://api.daily.dev/devcards/v2/WgN10YYDkjQoGOg8lMCKc.png?type=wide&r=ah9" width="652" alt="selman's Dev Card"/>
+
 
 <hr>
 <br>
