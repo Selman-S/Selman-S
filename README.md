@@ -14,7 +14,7 @@ I specialize in full-stack development using modern tools and frameworks:
 
 ---
 
-- 🌱 **Currently Learning:** Advanced backend development with Node.js and Next.js
+- 🌱 **Currently Learning:** Advanced backend development with NodeJs and expressJs
 - 💻 **Working On:** Full-stack applications, focusing on scalable and performant architectures.
 - 💬 **Ask Me About:** Full-stack development, backend technologies, or anything you'd like to learn.
 - 📫 **Reach Me At:** selmansahbudak1@gmail.com
