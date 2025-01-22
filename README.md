@@ -33,16 +33,16 @@ Thanks for stopping by! 😊
 ## My projects
   Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------|-------------------------
+[Live Link](https://www.hidayetogullari.com.tr/)|Next.js 15.1.4 (React 19),TypeScript,Tailwind CSS, Shadcn/ui,React Hook Form, Zod,Framer Motion | Hidayetogullri-emlak (private repo)
+[Live Link](https://en-tr-dictionary.vercel.app/)|Next.js 14.1.0, TypeScript, Tailwind CSS, Material UI, | [Türkçe-İngilizce Sözlük](https://github.com/Selman-S/EN-TR-Dictionary)
 [Live Link](https://dental-app-one.vercel.app/poliklinik)| reduxjs/toolkit, axios, formik, react-zoom-pan-pinch, date-fns, daisyui, react-dropzone, react-icons, sass, swiper, yup | [Dental Clinic Management System](https://github.com/Stock-Management-System/dentalApp)
 [Live Link](https://marvel-app-steel.vercel.app/)|NextJs, mui/material, Tailwind, md5, react-intersection-observer | [Marvel Characters](https://github.com/Selman-S/marvel-app)
 [Live Link](https://vole.netlify.app/)| React, NextJs, Tailwind, React-card-carousel | [Vole Football Player Cards Project](https://github.com/Selman-S/Vole)
 [Live Link](https://es6-to-es5.vercel.app/)|  @babel api, codemirror,  Tailwind | [ES6 to ES5 Code Convertor Tool](https://github.com/Selman-S/es6-to-es5)
 [Live Link](https://selman-reactjs.vercel.app/)| Redux Toolkit, TypeScript, Tailwind, Redux-Thunk |[UPayments Redux Typescript](https://github.com/Selman-S/Upayments-redux)
 [Live Link](https://crewin-blog.vercel.app/)| React, React Router Dom, SCSS, react icons |[CrewIn Blog App](https://github.com/Selman-S/Crewin-Blog)
-[Live Link](https://selman-firebase-contact.netlify.app/)| React, firebase database, firebase (  collection, getDocs, addDoc,  deleteDoc, doc, updateDoc), Bootstrap, React-icons |[Firebase Contact App](https://github.com/Selman-S/Firebase-Contact-App)
 |[Live Link](https://selman-weather-app.netlify.app/)| DOM, Async Await, Axios, Events| [Weather App Master](https://github.com/Selman-S/weather-app-master)
 |[Live Link](https://selman-s.github.io/Bootcamp-Courses-Project-with-Bootstrap/) |  HTML, CSS Frameworks, Bootstrap-5 |[Bootcamp Courses Project with Bootstrap](https://github.com/Selman-S/Bootcamp-Courses-Project-with-Bootstrap)
-|[Live Link](https://selman-task-tracker-react.netlify.app/) | React, useState, useEffect, localestorrage | [Task Tracker React Project](https://github.com/Selman-S/Task-tracker-React-project)
 |[Live Link](https://selman-react-language-cards.netlify.app/)|React, React DOM, Components, Props|[Language Cards React](https://github.com/Selman-S/Language-Cards-React)
 |[Live Link](https://selman-followers-github-react.netlify.app/)| React, useState, useEffect, axios, async await, Github User API, react-router-dom, react-bootsrap, styled-components|[My Followers React](https://github.com/Selman-S/My-Followers-React)
 |[Live Link](https://selman-s.github.io/First-React-Project-Tour/) | React, React DOM, Components, Props |[Tour Project(This is my first react Project :) ](https://github.com/Selman-S/First-React-Project-Tour/)
