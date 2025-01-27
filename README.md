@@ -33,7 +33,7 @@ Thanks for stopping by! 😊
 ## My projects
   Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
 :-------------------------|-------------------------|-------------------------
-[Live Link](https://www.hidayetogullari.com.tr/)|Next.js 15.1.4 (React 19),TypeScript,Tailwind CSS, Shadcn/ui,React Hook Form, Zod,Framer Motion |private repo
+[Live Link](https://www.hidayetogullari.com.tr/)|Next.js 15.1.4 (React 19),TypeScript,Tailwind CSS, Shadcn/ui,React Hook Form, Zod,Framer Motion |Hidayetoglu Emlak (private repo)
 [Live Link](https://en-tr-dictionary.vercel.app/)|Next.js 14.1.0, TypeScript, Tailwind CSS, Material UI, | [Türkçe-İngilizce Sözlük](https://github.com/Selman-S/EN-TR-Dictionary)
 [Live Link](https://dental-app-one.vercel.app/poliklinik)| reduxjs/toolkit, axios, formik, react-zoom-pan-pinch, date-fns, daisyui, react-dropzone, react-icons, sass, swiper, yup | [Dental Clinic Management System](https://github.com/Stock-Management-System/dentalApp)
 [Live Link](https://marvel-app-steel.vercel.app/)|NextJs, mui/material, Tailwind, md5, react-intersection-observer | [Marvel Characters](https://github.com/Selman-S/marvel-app)
