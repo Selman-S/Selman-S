@@ -86,7 +86,5 @@ Thanks for stopping by! 😊
 
 ## 📈 Statistics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Selman-S&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Selman-S&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selman-S&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
