@@ -23,12 +23,7 @@ I specialize in full-stack development using modern tools and frameworks:
 Thanks for stopping by! 😊
 
 
-### Visitors Count
-<img align="left" src = "https://profile-counter.glitch.me/selman-s/count.svg" alt ="Loading">
 
-<br>
-<hr>
-<br>
 
 ## My projects
   Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
